@@ -45,9 +45,7 @@ flex
 fuse2
 fuse3
 fuseiso
-gamemode
 gcc
-gimp
 git
 gparted
 gptfdisk
@@ -117,7 +115,6 @@ sddm
 sddm-kcm
 snapper
 spectacle
-steam
 sudo
 swtpm
 synergy
@@ -133,9 +130,6 @@ virt-manager
 virt-viewer
 wget
 which
-wine-gecko
-wine-mono
-winetricks
 xdg-desktop-portal-kde
 xdg-user-dirs
 zeroconf-ioslave
